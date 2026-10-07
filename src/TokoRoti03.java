@@ -22,6 +22,7 @@ public class TokoRoti03 {
     System.out.println("Tiap pegawai mendapat : Rp."+bagianPegawai);
     System.out.println("Sisa yang masuk kas : Rp."+intKas);
 
+    //cek
     zae.close();
     /*Kotak terjual hari ini: 200
     Pendapatan : Rp.5400000
